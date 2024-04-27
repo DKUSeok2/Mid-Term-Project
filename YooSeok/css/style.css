@@ -461,10 +461,12 @@ button {
 
 .about .about_img {
      text-align: center;
+     padding-top: 20px;
 }
 
 .about_right {
      padding-top: 80px;
+     padding-left: 80px;
 }
 
 .about_right figure {
@@ -472,7 +474,7 @@ button {
 }
 
 .about_right figure img {
-     width: 150%;
+     width: 70%;
 }
 
 .about .about_img figure {
