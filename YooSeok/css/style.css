@@ -513,8 +513,11 @@ button {
 
 .software .titlepage h2 {
      color: #fff;
+     text-align: center;
 }
-
+.software .titlepage a{
+     text-align: center;
+}
 .software .software_img figure {
      margin: 0;
 }
